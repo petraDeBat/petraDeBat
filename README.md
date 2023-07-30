@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Petra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from Canada</h3>
 
-- ⚡ Fun fact **I am funny**
+- 🌱 I’m currently learning **classical machine learning**
+
+- ⚡ Fun fact **I love to paint!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
